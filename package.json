@@ -7,5 +7,12 @@
   },
   "devDependencies": {
     "electron": "^8.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "os": "^0.1.1",
+    "qrcode": "^1.4.4",
+    "robotjs": "^0.6.0"
   }
 }
